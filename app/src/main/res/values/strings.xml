@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BestPossibleMove</string>
+    <string name="home_screen_tip_text">Digite as letras disponíveis nesta jogada</string>
+</resources>
